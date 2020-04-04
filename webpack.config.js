@@ -1,6 +1,6 @@
 const path = require('path')
 const webpack = require('webpack')
-const version = process.env.VERSION || require('./aventum-sample-dashboard-extension/package.json').version
+const version = process.env.VERSION || require('./sample-dashboard-extension/package.json').version
 
 const banner =
   'Aventum Sample Dashboard Extension v' + version + '\n' +
@@ -11,7 +11,7 @@ module.exports = {
   entry: './src/index.js',
   mode: 'production',
   output: {
-    path: path.resolve(__dirname, 'aventum-sample-dashboard-extension'),
+    path: path.resolve(__dirname, 'sample-dashboard-extension'),
     filename: 'index.js',
     library: 'AventumSampleDashboardExtension',
     libraryTarget: 'umd'

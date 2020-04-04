@@ -9,4 +9,4 @@ npm install
 npm run build
 ```
 
-The folder `aventum-sample-dashboard-extension` with its content is the installable extension.
+The folder `sample-dashboard-extension` with its content is the installable extension.
