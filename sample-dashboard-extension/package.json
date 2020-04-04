@@ -2,7 +2,7 @@
   "name": "@aventum/sample-dashboard-extension",
   "version": "1.0.0",
   "description": "Example of Aventum dashboard extension.",
-  "main": "sample-dashboard-extension.js",
+  "main": "index.js",
   "author": {
     "name": "Mohammed Al-Mahdawi",
     "email": "mohammed@al-mahdawi.com",
