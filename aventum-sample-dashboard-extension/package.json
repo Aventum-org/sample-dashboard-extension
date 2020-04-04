@@ -1,0 +1,24 @@
+{
+  "name": "@aventum/sample-dashboard-extension",
+  "version": "1.0.0",
+  "description": "Example of Aventum dashboard extension.",
+  "main": "aventum-sample-dashboard-extension.js",
+  "author": {
+    "name": "Mohammed Al-Mahdawi",
+    "email": "mohammed@al-mahdawi.com",
+    "url": "https://al-mahdawi.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Aventum-org/sample-dashboard-extension"
+  },
+  "license": "MIT",
+  "aventum": {
+    "target": "dashboard"
+  },
+  "keywords": [
+    "aventum",
+    "aventum-extension",
+    "aventum-dashboard-extension"
+  ]
+}
