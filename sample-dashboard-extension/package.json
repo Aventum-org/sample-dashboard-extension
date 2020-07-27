@@ -1,6 +1,6 @@
 {
   "name": "@aventum/sample-dashboard-extension",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Example of Aventum dashboard extension.",
   "main": "index.js",
   "author": {
